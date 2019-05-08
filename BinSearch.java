@@ -7,6 +7,8 @@ public class BinSearch {
 
         System.out.println(binSearch(array, 4));
     }
+    
+    //INCOMPLETE ALGORITHM ***
 
     public static int[] sortedArray(int[] array){
 
