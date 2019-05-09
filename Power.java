@@ -1,12 +1,9 @@
-package zada4ka;
-
 public class Power {
 
     public static void main(String[] args) {
-
-        int b = 3;
-
-        System.out.println((int)pow(b, 4));
+        // TEST in main
+        //int b = 3;
+        //System.out.println((int)pow(b, 4));
 
     }
 
