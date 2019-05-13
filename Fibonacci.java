@@ -1,5 +1,3 @@
-package zada4ka;
-
 public class Fibonacci {
 
     public static void main(String[] args) {
